@@ -9,7 +9,7 @@ public class C05_Scanner {
 
         Scanner input=new Scanner(System.in);
         //2.adım olarak kullanıcıya bilgi vermemiz gerekiyor kullanıcı bilgiyi ver kullanıcı bilgi girsin
-        System.out.println("karesini almak istediginiz istediginiz sayiyi giriniz : ");
+        System.out.println("karesini almak istediginiz sayiyi giriniz : ");
         double sayi= input.nextDouble();
         System.out.println("sayinin karesi : "+sayi*sayi);//cunku * işlemi + işleminden once gelir
 

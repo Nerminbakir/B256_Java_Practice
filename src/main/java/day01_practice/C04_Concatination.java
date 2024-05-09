@@ -35,7 +35,5 @@ public class C04_Concatination {
         //Ali Can Javayi bugun 8 yıl sonra tam anlamıyla ogrendi.
         System.out.println(str3+" "+str4+" "+str5+" "+str6+" "+(sayi1+sayi2)+" yıl sonra "+str7+" "+str8+" "+str9+".");
 
-
     }//main sonu
-
 }//class sonu

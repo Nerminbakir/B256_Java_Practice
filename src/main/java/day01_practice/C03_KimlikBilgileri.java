@@ -10,6 +10,7 @@ public class C03_KimlikBilgileri {
         String kutuk="Sivas";
         float boy=193.6f;
         double kilo=75.7;
+
         //1.yol
         System.out.println("isim = " + isim);
         System.out.println("soyIsim = " + soyIsim);

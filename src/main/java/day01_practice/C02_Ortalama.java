@@ -25,5 +25,4 @@ public class C02_Ortalama {
         System.out.println("Ortalama : "+(num1+num2+num3+num4+num5)/5);
 
     }//main sonu
-
 }//class sonu
